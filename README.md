@@ -1,2 +1,2 @@
 # techcamp-RBC
-my very cool project!1!1!!
+Github introductory project for RBC high-school March Break Tech Camp 
